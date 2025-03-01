@@ -22,3 +22,8 @@ DeepShield is an AI-driven deepfake detection system designed to identify manipu
 - Node.js & npm
 - React.js for frontend
 - Express.js for backend API
+
+![截屏2025-03-01 23 27 14](https://github.com/user-attachments/assets/a7804321-9e8c-419b-81f1-0960ab9e8020)
+
+![截屏2025-03-01 23 27 21](https://github.com/user-attachments/assets/dd14991a-3653-49ba-812e-dd5b26316dcf)
+

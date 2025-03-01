@@ -1,4 +1,4 @@
-# TeamName: DeepEdu-Explorers
+# TeamName: DeepEdu Explorers
 
 # DeepShield: AI-Powered Deepfake Detection
 
